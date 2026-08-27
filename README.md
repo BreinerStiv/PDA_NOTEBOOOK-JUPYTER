@@ -1,0 +1,19 @@
+# Notebook_Jupyter
+
+En este repositorio se almacenarán los cuadernos Jupyter que se trabajaron en las clases de **Programación para Analítica de Datos**.
+
+## Contenido
+
+| Cuaderno | Descripción |
+|----------|-------------|
+| Cuaderno 1 | Serie: Python desde cero |
+| Cuaderno 2 | Serie: Python desde cero |
+| Cuaderno 3 | Ejercicios trabajados en la Clase 12 de Agosto |
+| Cuaderno 4 | Ejercicios de práctica Fundamentos Python (1) — Paradigmas de programación y estructuras de control |
+| Cuaderno 5 | Ejercicios de práctica Fundamentos Python (2) — Listas, tuplas y diccionarios |
+| Cuaderno 6 | Ejercicios de práctica Fundamentos Python (3) — Funciones: definición, parámetros y return |
+| Cuaderno 7 | Diapositivas Clase 19 de Agosto |
+| Cuaderno 8 | Ejercicios de práctica NumPy y pandas |
+| Cuaderno 9 | Pandas: selección, filtros, groupby, merge (1) |
+| Cuaderno 10 | Preprocesamiento ETL |
+| Cuaderno 11 | Visualización con Matplotlib y Seaborn |
